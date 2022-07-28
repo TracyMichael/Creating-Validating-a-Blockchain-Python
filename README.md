@@ -33,7 +33,6 @@ Further details denoting requirements and verions are available in the requireme
 
 ## Installation Guide
 
-This Machine Learning Trading Bot app will not work without the proper technologies listed above.  To ensure you have the applicable tools please install the requirements for the Crypto Investments Application using the text file in the Module-Challenge-14 folder as follows:
 
 In The Terminal Run:
 
